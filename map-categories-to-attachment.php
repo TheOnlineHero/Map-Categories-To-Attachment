@@ -144,5 +144,4 @@ function mca_process_posts($content=''){
 	return $content;
 }
 
-include('ListAllAttachmentsFromCategory.php');
 ?>
